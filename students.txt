@@ -1,0 +1,40 @@
+16,Karen White,Philosophy,1
+3,Michael Johnson,Physics,3
+30,Hannah Green,Physical Education,1
+6,Sarah Brown,Biology,3
+5,David Lee,Computer Engineering,2
+4,Emily Wang,Mathematics,1
+19,Eric Clark,Geography,2
+28,Emma Hall,Industrial Design,1
+41,afaf,qwertyu
+17,Steven Miller,Anthropology,3
+9,Kevin Moore,English Literature,1
+22,Julia Hernandez,Medicine,1
+34,Grace Moore,Library Science,1
+14,Amanda Allen,Economics,1
+32,Samantha Adams,Journalism,1
+26,Olivia King,Film Studies,1
+37,Joshua Morgan,Social Work,3
+20,Mary Harris,Foreign Languages,1
+1,John Doe,Computer Science,2,3
+36,Katie Evans,Graphic Design,1
+21,George Young,Statistics,3
+23,Daniel Gonzalez,Environmental Science,2
+24,Sophia Lopez,Nursing,1
+25,Richard Perez,Theater,3
+2,Jane Smith,Engineering,1
+18,Laura Thompson,Linguistics,1
+11,Robert Martinez,Sociology,1
+39,Nicholas Coleman,Education,2
+12,Michelle Thomas,Art,2
+35,Brandon Rivera,Communication,2
+27,Matthew Lewis,Archaeology,2
+7,Chris Davis,Chemistry,1
+10,Amy Taylor,History,3
+31,Nathan Baker,Public Health,2
+33,Andrew Cook,Information Technology,3
+38,Alexis Butler,Criminal Justice,1
+8,Lisa Wilson,Psychology,2
+13,William Garcia,Music,3
+15,Jason Scott,Political Science,2
+29,Justin Walker,Astronomy,3

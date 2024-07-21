@@ -1,0 +1,13 @@
+MUS101,Music Appreciation,3,12,Friday 11:00-13:00,Room L
+HIST301,European History,4,10,Monday 13:00-15:00,Room J
+LIT210,World Literature,3,9,Tuesday 9:00-11:00,Room I
+PSYCH101,Introduction to Psychology,3,8,Thursday 13:00-15:00,Room H
+CHEM202,Organic Chemistry,4,7,Wednesday 10:00-12:00,Room G
+ART205,Modern Art History,3,11,Wednesday 14:00-16:00,Room K
+BIO203,Genetics and Evolution,3,6,Monday 14:00-16:00,Room F
+MATH202,Linear Algebra,3,4,Tuesday 14:00-16:00,Room D
+CENG102,Computer Architecture,4,5,Thursday 11:00-13:00,Room E
+PHY301,Quantum Mechanics,3,3,Friday 10:00-12:00,Room C
+ENG201,Advanced Engineering Mathematics,4,2,Wednesday 13:00-15:00,Room B
+CS101,Introduction to Computer Science,3,1,Monday 9:00-11:00,Room A
+101,introduction to Computer Science,4,1,Monday 8:00-:11:00,22
